@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him
 - 
 - # 💫 About Me:
-- # Hi !!, I'm Ayan Maiti
+# Hi !!, I'm Ayan Maiti
 ### BTech CSE Student
 
 I am a BTech CSE Student and would be graduating in 2030.
