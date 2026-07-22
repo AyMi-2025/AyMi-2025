@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyMi-2025
+- 👋 Hi, I’m Ayan Maiti
 - 👀 I’m interested in Coding
 - 😄 Pronouns: He/Him
 
@@ -7,7 +7,7 @@
 # Hi !!, I'm Ayan Maiti
 ### BTech CSE Student
 
-I am a BTech CSE Student and would be graduating in 2030.
+I am a BTech CSE Student @LPU and would be graduating in 2030.
 I love to code, build and learn new skills and websites.
 Currently I am into Web Development and would soon start DSA.
 
