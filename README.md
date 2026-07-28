@@ -22,3 +22,9 @@ Currently I am into Web Development and would soon start DSA.
 ![](https://github-readme-stats.shion.dev/api?username=AyMi-2025&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=AyMi-2025&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AyMi-2025&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyMi-2025/AyMi-2025/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyMi-2025/AyMi-2025/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AyMi-2025/AyMi-2025/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
