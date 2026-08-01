@@ -1,6 +1,6 @@
-# 💫 About Me:
-# Hi !!, I'm Ayan Maiti
-# BTech CSE Student
+<h1>Hi 👋, I'm Ayan Maiti</h1>
+<p>Student @ LPU CSE'30</p>
+
 
 
 # 💻 Tech Stack:
