@@ -1,15 +1,7 @@
-- 👋 Hi, I’m Ayan Maiti
-- 👀 Pre First Student @ LPU Pursuing BTech CSE 
-- 😄 Pronouns: He/Him
-
-
 # 💫 About Me:
 # Hi !!, I'm Ayan Maiti
 ### BTech CSE Student
 
-I am a BTech CSE Student @LPU and would be graduating in 2030.
-I love to code, build and learn new skills and websites.
-Currently I am into Web Development and would soon start DSA.
 
 # 💻 Tech Stack:
 <div data-importer="techs" align="left">
