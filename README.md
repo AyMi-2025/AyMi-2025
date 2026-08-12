@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi !! I am Ayan Maiti<br>Pre First Year Student at LPU CSE'30<br>Aspiring Software Developer<br>Currently Learning Web Development<br>HTML, CSS, JS, React, Python, Java + DSA
+Hi !! I am Ayan Maiti<br>First Year Student at LPU CSE'30<br>Aspiring Software Developer<br>Currently Learning Web Development<br>HTML, CSS, JS, React, Python, Java + DSA
 
 
 ## 🌐 Socials:
