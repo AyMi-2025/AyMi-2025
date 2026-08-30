@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/AyMi-2025">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=762&text=Hello!%20I'm%20Ayan%20Maiti" alt="Hello! I&#39;m Ayan Maiti" />
   </a>
@@ -68,4 +68,4 @@ Currently Learning Web Development
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/AyMi-2025">AyMi-2025</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/AyMi-2025">AyMi-2025</a></i></p> -->
